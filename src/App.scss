@@ -24,6 +24,23 @@
   color: white;
 }
 
+.donut-article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#d3-donut svg {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+}
+
+.slice {
+  stroke: #ffffff;
+  stroke-width: 2px;
+}
+
 .App-link {
   color: #61dafb;
 }

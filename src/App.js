@@ -8,7 +8,7 @@ import AboutPage from './AboutPage/AboutPage';
 import LoginPage from './LoginPage/LoginPage';
 import Footer from './Footer/Footer';
 
-import './App.css';
+import './App.scss';
 
 
 function App() {
